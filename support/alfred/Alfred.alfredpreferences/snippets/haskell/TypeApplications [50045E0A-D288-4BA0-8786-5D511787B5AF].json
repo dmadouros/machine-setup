@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "{-# LANGUAGE TypeApplications #-}",
+    "uid" : "50045E0A-D288-4BA0-8786-5D511787B5AF",
+    "name" : "TypeApplications",
+    "keyword" : "ta"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "{-# LANGUAGE ??? #-}",
+    "uid" : "F44848B6-7FE4-47AE-B534-9C5DE81B1F44",
+    "name" : "Language Pragma",
+    "keyword" : "lang"
+  }
+}

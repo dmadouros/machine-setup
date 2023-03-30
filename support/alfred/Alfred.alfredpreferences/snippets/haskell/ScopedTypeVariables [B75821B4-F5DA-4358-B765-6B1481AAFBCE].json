@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "{-# LANGUAGE ScopedTypeVariables #-}",
+    "uid" : "B75821B4-F5DA-4358-B765-6B1481AAFBCE",
+    "name" : "ScopedTypeVariables",
+    "keyword" : "stv"
+  }
+}

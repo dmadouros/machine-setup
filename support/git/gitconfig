@@ -1,0 +1,12 @@
+[user]
+    name = David Madouros
+    email = david.madouros@gmail.com
+
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+[core]
+    excludesfile = /Users/dmadouros/.gitignore
+[merge]
+    tool = opendiff
+[init]
+	defaultBranch = main
