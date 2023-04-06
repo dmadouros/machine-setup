@@ -1,0 +1,5 @@
+[
+   { "keys": ["super+v"], "command": "paste_and_indent" },
+   { "keys": ["super+alt+v"], "command": "paste" },
+   { "keys": ["super+shift+r"], "command": "reindent" }
+]
