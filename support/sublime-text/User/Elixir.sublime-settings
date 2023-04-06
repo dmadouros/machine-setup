@@ -1,8 +1,0 @@
-// Settings in here override those in "Elixir/Settings/Elixir.sublime-settings",
-
-{
-  "env": {
-    "PATH": "/Users/dmadouros/.asdf/shims"
-  },
-  "mix_format_on_save": true
-}
